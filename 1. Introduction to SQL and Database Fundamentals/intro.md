@@ -48,5 +48,6 @@ UPDATE employee SET LastName = "qwe" WHERE EID = 5
 ## DATA DELETION
 -- delete user details
 
+
 DELETE FROM employee WHERE EID = 4
 ```
